@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm RogerIn1900![cat3](https://github.com/user-attachments/assets/220740f2-5052-4ac7-92f5-a9e9998ca5d2)
+# ![cat3](https://github.com/user-attachments/assets/220740f2-5052-4ac7-92f5-a9e9998ca5d2) Hi there! I'm RogerIn1900
 I'm a passionate developer with a love for creating innovative solutions and trying to contributing to open source.
 
 ---
